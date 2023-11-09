@@ -1,4 +1,4 @@
 <classpath>
-  <classpathentry kind="lib" path="D:\jdbc_projects\lib\ojdbc11.jar" />
+  <classpathentry kind="lib" path="E:\jdbc_projects\lib\ojdbc11.jar" />
   <!-- Other classpath entries, if any -->
 </classpath>
